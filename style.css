@@ -1,4 +1,5 @@
 p{
+    text-align: center;
     color:red
 }
 
@@ -28,4 +29,9 @@ h3{
 h2{
     /*changement de couleur en vert claire pour la balise h2*/
     color:chartreuse
+}
+
+#paragraph1{
+    /*changement de couleur pour un seul paragraphe*/
+    color:blue
 }
