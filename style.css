@@ -1,0 +1,31 @@
+p{
+    color:red
+}
+
+h1{
+    color:green
+}
+
+ol{
+    color:purple
+}
+
+li{
+    /*changement sde couleur pour la balise li*/
+    color:brown
+}
+
+h4{
+    /*changement de couleur pour la balise h4*/
+    color:orange
+}
+
+h3{
+    /*changement de couleur en bleu ciel pour la balise h3*/
+    color:aqua
+}
+
+h2{
+    /*changement de couleur en vert claire pour la balise h2*/
+    color:chartreuse
+}
