@@ -34,32 +34,47 @@ h2{
 
 #paragraph1{
     /*changement de couleur pour un seul paragraphe*/
-    color:blue
+    color:blue;
+    font-size: 40px;
+    font-family: 'trirong', sans-serif;
 }
 
 p.rsma{
     /*changement de couleur pour un paragraphe choisis*/
     color: blue;
+    font-size: 30px;
+    font-family: 'oswald', serif;
+    text-align: center;
 }
 
 p.mayotte{
     /*changement de couleur pour un paragraphe precis*/
     color: violet;
+    font-family: 'sofia', sans-serif;
+    font-size: 25px;
+    text-decoration: underline;
 }
 
 p.mayotte1{
     /*changement de couleur pour un paragraphe precis*/
-    color: fuchsia
+    color: fuchsia;
+    font-family: 'papyrus', fantasy;
+    font-size: 50px;
+    font-weight: bold;
 }
 
 li.surface{
     /*changement de couleur pour les balise li*/
     color: yellow;
+    font-family: 'papyrus', fantasy;
+    font-size: 25px;
+    font-style: italic;
 }
 
 body{
     /*changement de couleur en noir pour le fond de la page*/
     background-color: black;
+
 }
 
 p.ma{
