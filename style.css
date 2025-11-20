@@ -13,6 +13,7 @@ ol{
 
 li{
     /*changement sde couleur pour la balise li*/
+    text-align: center;
     color:brown
 }
 
@@ -34,4 +35,29 @@ h2{
 #paragraph1{
     /*changement de couleur pour un seul paragraphe*/
     color:blue
+}
+
+p.rsma{
+    /*changement de couleur pour un paragraphe choisis*/
+    color: blue;
+}
+
+p.mayotte{
+    /*changement de couleur pour un paragraphe precis*/
+    color: violet;
+}
+
+p.mayotte1{
+    /*changement de couleur pour un paragraphe precis*/
+    color: fuchsia
+}
+
+li.surface{
+    /*changement de couleur pour les balise li*/
+    color: yellow;
+}
+
+body{
+    /*changement de couleur en noir pour le fond de la page*/
+    background-color: black;
 }
