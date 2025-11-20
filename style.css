@@ -61,3 +61,8 @@ body{
     /*changement de couleur en noir pour le fond de la page*/
     background-color: black;
 }
+
+p.ma{
+    /*cette commande permet de changer d'un ou plusieurs paragraphe*/
+    font-size: 25px;
+}
