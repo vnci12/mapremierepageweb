@@ -1,19 +1,19 @@
 h1{
     font-size: 3.5em;
     color: #A5B4FC;
-    font-family: 'montserrat' sans-serif;
+    font-family: 'montserrat';
 }
 
 p{
     font-size: 1.1em;
-    font-family: 'manrope' sans-serif;
+    font-family: 'manrope';
 }
 
 li{
     font-size: 1em;
-    font-family: 'manrope' sans-serif;
+    font-family: 'manrope';
 }
 
 a{
-    text-decoration: dashed;
+    text-decoration: none;
 }
