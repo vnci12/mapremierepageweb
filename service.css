@@ -1,5 +1,29 @@
 div{
     /*la parie de gauche s'appele propriété et la partie de droite s'appele valeur*/
     color: red;
-    /*l'ensamble à pour nom sélecteur*/ 
+    /*l'ensamble à pour nom sélecteur*/
+    
+    background-color: black;
+    /*changement de couleur de fond pour la division*/
 }
+
+#solid{
+    /*ajout de bordure en une ligne*/
+    border: solid;
+}
+
+#double{
+    /*ajout de bordure en double*/
+    border: double;
+}
+
+#dotted{
+    /*ajout de bordure en pointiller*/
+    border: dotted;
+}
+
+#dashed{
+    /*ajout de bordure en petit tiré*/
+    border: dashed;
+}
+
