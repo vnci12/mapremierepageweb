@@ -27,3 +27,30 @@ div{
     border: dashed;
 }
 
+#div1{
+  border: solid;
+  color: red;
+  border-radius: 25px 25px 45px 45px
+}
+
+p{
+  text-align: center
+}
+#p1{
+  color: blue;
+}
+
+#div2{
+  border: double;
+  color: violet;
+  border-radius: 15px 40px 15px 40px;
+}
+#p2{
+  color: chartreuse;
+}
+
+#div3{
+  color: fuchsia;
+  border: dotted;
+  border-radius: 50px 20px 50px 20px;
+}
