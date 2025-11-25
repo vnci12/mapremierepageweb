@@ -3,7 +3,7 @@ div{
     color: red;
     /*l'ensamble à pour nom sélecteur*/
     
-    background-color: black;
+    background-color: 
     /*changement de couleur de fond pour la division*/
 }
 
@@ -44,6 +44,7 @@ p{
   border: double;
   color: violet;
   border-radius: 15px 40px 15px 40px;
+
 }
 #p2{
   color: chartreuse;
@@ -53,4 +54,28 @@ p{
   color: fuchsia;
   border: dotted;
   border-radius: 50px 20px 50px 20px;
+  /*changement de taille de la largeur de la bordure*/
+  width: 185px;
+  /*changement de taille de la hauteur*/
+  height: 50px;
+}
+
+#div5{
+
+    border: solid;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(30deg, blue, rgb(187, 24, 160), rgb(224, 73, 214));
+    border-radius: 30% 70% 70% 30% / 30% 58% 42% 70%;
+    width: 150px;
+    height: 150px;
+}
+
+#div6{
+    border: solid;
+    background: red;
+    width: 160px;
+    height: 140px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 6px 6px 0px rgb(0,0,0);
+    
 }
