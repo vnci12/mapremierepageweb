@@ -30,11 +30,11 @@ div{
 #div1{
   border: solid;
   color: red;
-  border-radius: 25px 25px 45px 45px
+  border-radius: 25px 25px 45px 45px;
 }
 
 p{
-  text-align: center
+  text-align: center;
 }
 #p1{
   color: blue;
