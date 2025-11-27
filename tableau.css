@@ -1,0 +1,4 @@
+table, th, td {
+    border: solid, 2px;
+    border-collapse: collapse;/*permet de coller les bord dun tableau afin que le rendue sois presenter 
+}
