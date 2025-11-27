@@ -3,7 +3,7 @@ div{
     color: red;
     /*l'ensamble à pour nom sélecteur*/
     
-    background-color: 
+    background: local;
     /*changement de couleur de fond pour la division*/
 }
 

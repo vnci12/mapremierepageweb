@@ -1,4 +1,12 @@
-table, th, td {
+table{
     border: solid, 2px;
-    border-collapse: collapse;/*permet de coller les bord dun tableau afin que le rendue sois presenter 
+    background-color: aqua;
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+td, th{
+    border-collapse: collapse, 2px;/*permet de coller les bord dun tableau afin que le rendue sois bien presenter*/
+    border: 2px;
 }
