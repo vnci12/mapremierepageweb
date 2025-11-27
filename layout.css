@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+
+header{
+    /**l'arriére plan de la balise selectionner a changer de couleur*/
+    background-color: #666;
+    padding: 15px;/*élargisement de l'arriére plan*/
+    text-align: center;/*allignement du texte au centre*/
+    color:aliceblue;/*changement de couleur*/
+    font-size: 25px;/*changement de taille de la police*/
+}
+
+/*mise en format de ma partie section*/
+section{
+    /*optimisation de l'affichage sur différent types de taille d'écran*/
+    display: -webkit-flex;
+    display: flex;
+}
+
+nav{
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    background: #ccc;
+    padding: 20px;
+}
+/*mise en forme de la lsite de la balise <na>*/
+nav ul{
+    list-style-type: none;/*retire les pointiller*/
+    padding: 0;
+}
+/*mise en vue de l'article <article>*/
+article{
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    background: rgb(63, 223, 10);
+    padding: 10px;
+}
+footer{
+    text-align: center;
+    background-color: #777;
+    padding: 20px;
+    color: white;
+}
